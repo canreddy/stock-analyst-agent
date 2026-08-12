@@ -3,8 +3,8 @@
 Phase 1 is a personal US-stock portfolio dashboard. Upload transaction history, reconstruct open positions using deterministic FIFO accounting, retrieve Yahoo Finance prices, review lifetime performance against a benchmark, and optionally ask a Groq-powered analyst about the calculated results.
 
 ## Screenshots
-
-Add screenshots here after running the application locally.
+ 
+ 
 
 ## Features
 
@@ -29,7 +29,7 @@ Add screenshots here after running the application locally.
 Requires Python 3.12+ and [uv](https://docs.astral.sh/uv/).
 
 ```bash
-git clone https://github.com/canreddy/stock-analyst-agent
+git clone https://github.com/canreddy/stock-analyst-agent.git
 cd stock-analyst-agent
 uv sync
 cp .env.example .env
