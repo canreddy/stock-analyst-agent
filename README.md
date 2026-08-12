@@ -3,8 +3,22 @@
 Phase 1 is a personal US-stock portfolio dashboard. Upload transaction history, reconstruct open positions using deterministic FIFO accounting, retrieve Yahoo Finance prices, review lifetime performance against a benchmark, and optionally ask a Groq-powered analyst about the calculated results.
 
 ## Screenshots
- 
- 
+
+### Data upload
+
+![Upload transaction history and configure market data](docs/screenshots/data-upload.png)
+
+### Portfolio
+
+![Portfolio summary, allocation, and current holdings](docs/screenshots/portfolio.png)
+
+### Performance
+
+![Portfolio performance metrics and value history](docs/screenshots/performance.png)
+
+### AI analyst
+
+![AI analyst portfolio chat](docs/screenshots/ai-analyst.png)
 
 ## Features
 
